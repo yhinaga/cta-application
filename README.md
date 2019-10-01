@@ -38,4 +38,4 @@
 ## 6. Other Support Files
    - ***CTAStops.csv***: contains all of the information about CTA stations.
 
-Copyright (c) 2019 by Yuki Hinaga. All rights reserved.
+Copyright © 2019 by Yuki Hinaga. All rights reserved.
