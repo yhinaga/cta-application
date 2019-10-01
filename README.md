@@ -35,5 +35,5 @@
      - exiting.
   - ***GeoLocation.java***: class that calculates the distance between two locations with the latitude and the longitude of stations.
 
-## Other Support Files
+## 6. Other Support Files
    - ***CTAStops.csv***: contains all of the information about CTA stations.
