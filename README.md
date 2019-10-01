@@ -16,20 +16,20 @@
 
 ## 5. Major Files
    - CTARoute: class for the following actions:
-   	 - Sub displaying the stations, 
-   	 - Sub adding stations, 
-   	 - Sub removing stations, 
-   	 - Sub inserting stations, 
-   	 - Sub looking up stations, and 
-   	 - Sub displaying the nearest stations.
+   	 - displaying the stations, 
+   	 - adding stations, 
+   	 - removing stations, 
+   	 - inserting stations, 
+   	 - looking up stations, and 
+   	 - displaying the nearest stations.
    - CTAStation: class with the information and attributes of the stations
    - CTAStation_Client: main application class with the menu options. Class for the following actions:
-     - Sub computing the path between two stations in path(),
-     - Sub providing the menu options to do displaying all stations,
-     - Sub displaying wheelchair access, displaying the nearest station, 
-     - Sub displaying info of a specific station, 
-     - Sub displaying info of all stations, 
-     - Sub adding a new station, 
-     - Sub deleting a station, 
-     - Sub showing the path from one station to another, and
-     - Sub exiting.
+     - computing the path between two stations in path(),
+     - providing the menu options to do displaying all stations,
+     - displaying wheelchair access, displaying the nearest station, 
+     - displaying info of a specific station, 
+     - displaying info of all stations, 
+     - adding a new station, 
+     - deleting a station, 
+     - showing the path from one station to another, and
+     - exiting.
