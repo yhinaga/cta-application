@@ -15,7 +15,13 @@
    - Developed a deep understanding of Object-Oriented Programming, including classes, objects, inheritance, and exception-handling.
 
 ## 5. Major Files
-   - CTARoute: class for displaying the stations, adding stations, removing stations, inserting stations, looking up stations, and displaying the nearest stations.
+   - CTARoute: class for the following actions:
+   	 - Sub displaying the stations, 
+   	 - Sub adding stations, 
+   	 - Sub removing stations, 
+   	 - Sub inserting stations, 
+   	 - Sub looking up stations, and 
+   	 - Sub displaying the nearest stations.
    - CTAStation: class with the information and attributes of the stations
    - CTAStation_Client: main application class with the menu options. Class for the following actions:
      - Sub computing the path between two stations in path(),
