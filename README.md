@@ -7,7 +7,7 @@
    Chicago, IL
    
 ## 3. Creater
-   Yuki Hinaga (Bacheloer in Science, Computer Science at Illinois Institute of Technology)
+   Yuki Hinaga (Bacheloer of Science in Computer Science at Illinois Institute of Technology)
    
 ## 4. Summary of the Project
    - Created a program in Java that allows the user to create, modify, remove, and search CTA stations and their information.
