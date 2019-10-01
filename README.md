@@ -14,7 +14,7 @@
    - Implemented the features to find the closest station from the current location and to generate a path between two stations which could include multiple transits.
    - Developed a deep understanding of Object-Oriented Programming, including classes, objects, inheritance, and exception-handling.
 
-## 5. Major Files
+## 5. Main Files
    - ***CTARoute.java***: class for the following actions:
    	 - displaying the stations, 
    	 - adding stations, 
