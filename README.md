@@ -15,15 +15,15 @@
    - Developed a deep understanding of Object-Oriented Programming, including classes, objects, inheritance, and exception-handling.
 
 ## 5. Major Files
-   - CTARoute.java: class for the following actions:
+   - ***CTARoute.java***: class for the following actions:
    	 - displaying the stations, 
    	 - adding stations, 
    	 - removing stations, 
    	 - inserting stations, 
    	 - looking up stations, and 
    	 - displaying the nearest stations.
-   - CTAStation.java: class with the information and attributes of the stations
-   - CTAStation_Client.java: main application class with the menu options. Class for the following actions:
+   - ***CTAStation.java***: class with the information and attributes of the stations
+   - ***CTAStation_Client.java***: main application class with the menu options. Class for the following actions:
      - computing the path between two stations in path(),
      - providing the menu options to do displaying all stations,
      - displaying wheelchair access, displaying the nearest station, 
